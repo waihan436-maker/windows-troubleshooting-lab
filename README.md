@@ -31,11 +31,13 @@ A Windows Server 2022 virtual machine lost internet connectivity after the Ether
 
 ## Result
 Internet connectivity restored successfully.
+## Skills Practiced
+- Windows network troubleshooting
+- Command-line diagnostics
+- Network adapter management
+- Problem isolation
 
 
-## Screenshots
-
-### Browser Error
 
 
 # Screenshots
@@ -60,3 +62,6 @@ Internet connectivity restored successfully.
 
 ## Browser Connectivity Restored
 ![Browser Restored](browser-restored.png)
+
+
+
