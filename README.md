@@ -38,22 +38,25 @@ Internet connectivity restored successfully.
 ### Browser Error
 
 
-## Screenshots
+# Screenshots
 
-### Browser Error
-![Browser Error](myimages/browser-error.png)
+## Browser Error
+![Browser Error](browser-error.png)
 
-### Failed Ping Test
-![Failed Ping](myimages/failed-ping.png)
+## Failed Ping Test
+![Failed Ping](failed-ping.png)
 
-### Network Adapter Investigation
-![Network Adapter](myimages/network-adapter.png)
+## Network Connectivity Check
+![Check Network Ping](checknet-ping.png)
 
-### IP Configuration Investigation
-![ipconfig](myimages/ipconfig-investigation.png)
+## Network Adapter Investigation
+![Network Adapter](network-adapter.png)
 
-### Successful Connectivity Test
-![Successful Ping](myimages/successful-ping.png)
+## IP Configuration Investigation
+![ipconfig](ipconfig-investigation.png)
 
-### Browser Connectivity Restored
-![Browser Restored](myimages/browser-restored.png)
+## Successful Connectivity Test
+![Successful Ping](successful-ping.png)
+
+## Browser Connectivity Restored
+![Browser Restored](browser-restored.png)
