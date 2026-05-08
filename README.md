@@ -31,3 +31,18 @@ A Windows Server 2022 virtual machine lost internet connectivity after the Ether
 
 ## Result
 Internet connectivity restored successfully.
+
+
+## Screenshots
+
+### Browser Error
+
+
+### Failed Ping
+![Failed Ping](failed-ping.png)
+
+### IP Configuration
+![ipconfig](ipconfig.png)
+
+### Successful Ping
+![Successful Ping](successful-ping.png)
